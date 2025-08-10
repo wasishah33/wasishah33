@@ -52,14 +52,5 @@ I specialize in **PHP**, **MERN**, **Laravel**, **CodeIgniter**, and modern Java
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=wasifshah&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasifshah&theme=tokyonight" height="165" />
-</p>
-
----
-
 ## 💡 Quote
 💡 *"Always learning, always building."*
