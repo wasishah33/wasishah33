@@ -1,4 +1,4 @@
-![Header](header-image.png)
+![Header](header.png)
 <h1 align="center">Hi, I'm Wasif Shah 👋</h1>
 <h3 align="center">Full-Stack Web Developer | 12+ Years of Experience</h3>
 
