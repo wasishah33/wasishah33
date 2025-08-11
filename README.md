@@ -36,7 +36,7 @@ I specialize in **PHP**, **MERN**, **Laravel**, **CodeIgniter**, and modern Java
 - 📈 Contributed to projects with **millions of monthly users**  
 
 <p align="center">
-  <a href="https://github.com/wasifshah">
+  <a href="https://github.com/wasishah33">
     <img src="https://img.shields.io/github/followers/wasishah33?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
   </a>
   <a href="https://linkedin.com/in/wasishah33">
