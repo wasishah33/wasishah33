@@ -1,5 +1,5 @@
 ![Header](header_img.jpg)
-<h1 align="center">Hi, I'm Wasif Shah 👋</h1>
+<h1 align="center">Hi, I'm Wasif Waheed 👋</h1>
 💻 **Full-Stack Web Developer** with 12+ years of experience crafting scalable, secure, and high-performance applications.  
 I specialize in **PHP**, **MERN**, **Laravel**, **CodeIgniter**, and modern JavaScript frameworks.  
 
